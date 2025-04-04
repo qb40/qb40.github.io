@@ -111,3 +111,4 @@ QuickBASIC’s `SCREEN 13` VGA graphics mode is an 8-bit pixel (256 colors using
 
 [![](https://img.youtube.com/vi/RZ36ZPZhcaE/maxresdefault.jpg)](https://www.youtube.com/watch?v=RZ36ZPZhcaE)
 [![ORG](https://img.shields.io/badge/org-wolfram77-green?logo=Org)](https://wolfram77.github.io)
+![](https://ga-beacon.deno.dev/G-7YB2GGR37M:_Mv5VNhrSS-f8xhwXDUwtQ/qb40.github.io)
