@@ -96,6 +96,16 @@ A summary of programs made with QuickBASIC in DOS.
 [keyboard-controller]: https://qb40.github.io/keyboard-controller/
 
 <br>
+
+
+## Interesting Links
+
+- [DOS .COM Startup Registers](https://www.fysnet.net/yourhelp.htm)
+- [NewBasic: An x86 Assembler/Disassembler for DOS](https://www.fysnet.net/newbasic.htm)
+- [Programming MS-DOS with Power](https://www.fysnet.net/index.htm)
+- [phatcode.net / main](http://www.phatcode.net)
+
+<br>
 <br>
 
 
